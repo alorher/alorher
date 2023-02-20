@@ -2,7 +2,7 @@
 
 I trained as an aerospace engineer, but my passion is data. For this reason, I dedicate myself to it and I want to continue taking on new professional challenges in which to demonstrate that I am a great data analyst.
 
-Here is some information about me:
+You can see my CV above, but here is some information about me:
 
 - 🔭 I’m currently working as senior data analyst
 - 🌱 I’m currently learning a MSc in data sciencie
@@ -12,4 +12,6 @@ Here is some information about me:
 - :earth_asia: I know it sounds very typical, but I love to travel and meet new people and cultures. The world is too big and old to sit still
 - 🤔 I’m looking for a new challenge
 - 💬 Ask me about everythig you need to know.
+
+I hope I can talk to you, regards
 
