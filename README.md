@@ -1,13 +1,14 @@
 ### Hi there 👋
 
+I trained as an aerospace engineer, but my passion is data. For this reason, I dedicate myself to it and I want to continue taking on new professional challenges in which to demonstrate that I am a great data analyst.
 
-**alorher/alorher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is some information about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on senior data analyst
+- 🔭 I’m currently working as senior data analyst
 - 🌱 I’m currently learning a MSc in data sciencie
-- 👯 I’m looking to collaborate with diference costumers in "Upwork"
+- 👯 I'm starting with a profile in "Upwork" where I currently have several projects started
+- :swimmer: I'm open water swimmer, one of my passions is the sea.
+- :man_with_turban: I also do yoga and meditation
 - 🤔 I’m looking for a new challenge
 - 💬 Ask me about everythig you need to know.
 
