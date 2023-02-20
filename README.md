@@ -9,6 +9,7 @@ Here is some information about me:
 - 👯 I'm starting with a profile in "Upwork" where I currently have several projects started
 - :swimmer: I'm open water swimmer, one of my passions is the sea.
 - :man_with_turban: I also do yoga and meditation
+- :earth_asia: I know it sounds very typical, but I love to travel and meet new people and cultures. The world is too big and old to sit still
 - 🤔 I’m looking for a new challenge
 - 💬 Ask me about everythig you need to know.
 
